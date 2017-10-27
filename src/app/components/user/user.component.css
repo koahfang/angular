@@ -1,0 +1,10 @@
+
+  .link {
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 20px;
+    padding-block-start: 5px;
+    word-spacing: 10px;
+    margin: 0px ;
+    background-color: rgb(0, 0, 0) 
+  }
